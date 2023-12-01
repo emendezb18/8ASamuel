@@ -1,0 +1,60 @@
+body{
+    background-image: url(https://images.pexels.com/videos/3045163/free-video-3045163.jpg?auto=compress&cs=tinysrgb&dpr=1&w=500);
+}
+
+p{
+    color:white;
+}
+
+h1{
+    color: white;
+}
+
+.image4{
+    margin-left: 65%;
+    position: absolute;
+    margin-top: -10%;
+}
+
+
+header{
+    background-color: #333;
+    color: #fff;
+    padding: 10px;
+}
+p {
+    background-color:red;
+    border-radius: 20px;
+    padding: 10px;
+    margin-right: 50%;
+}
+
+.img{
+    margin-left: 80%;
+    position:absolute;
+    margin-top: -13%;
+}
+
+.img11{
+margin-left: 73%;
+position: absolute;
+margin-top: 18%;
+}
+
+.img12{
+    margin-left: 73%;
+position: absolute;
+margin-top: 37%;
+}
+
+.img13{
+    margin-left: 55%;
+    position: absolute;
+    margin-top: 60%;
+}
+
+.img1{
+    float: right;
+
+
+}
